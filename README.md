@@ -9,6 +9,7 @@
     * Number of elements for train: 46807, label value [1.11]
   + 1/5 of the remaining data set is used for testing:
     * Number of test set elements: 11702, label value [1.11]
- => Accuracy = 98.64% > 75.47% = Accuracy (Bayes) 
+    
+ Accuracy = 98.64% > 75.47% = Accuracy (Bayes) 
  
  
